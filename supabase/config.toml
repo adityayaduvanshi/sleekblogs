@@ -1,0 +1,1 @@
+project_id = import.meta.env.VITE_SUPABASE_PROJECT_ID
